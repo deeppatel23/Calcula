@@ -47,11 +47,6 @@ class CalculatorController: UIViewController, UITextFieldDelegate {
 
     @IBAction func calcButtonPressed(_ sender: UIButton) {
 
-        if expressionTextField.endEditing(true) {
-            calcPressed = false
-            calcEqualPressed = false
-        }
-
         if let cM = sender.currentTitle {
             
             if errOccured {
@@ -67,7 +62,7 @@ class CalculatorController: UIViewController, UITextFieldDelegate {
                     expressionTextField.text = nil
                     
                 } else if cM != "=" {
-                    
+                                        
                     if calcEqualPressed {
                         expressionTextField.text = displayLabel.text
                     }
@@ -89,7 +84,7 @@ class CalculatorController: UIViewController, UITextFieldDelegate {
                     if calcEqualPressed {
                         return
                     }
-                    
+
                     calcEqualPressed = true
                     (displayValue, errOccured) = calculatorLogic.calculate(calcMethod: expressionTextField.text!)
                     
@@ -167,6 +162,8 @@ class CalculatorController: UIViewController, UITextFieldDelegate {
     }
     
     func textFieldShouldReturn(_ textField: UITextField) -> Bool {
+        calcPressed = false
+        calcEqualPressed = false
         self.view.endEditing(true)
         return false
     }
