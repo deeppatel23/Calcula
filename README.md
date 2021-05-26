@@ -11,10 +11,11 @@ Calcula is a calculator iOS app, that uses Machine Learning to scan bills and ad
 * This app can also scan mathematical expression and perform calculation based on standard BODMAS method.
 
 # Tech-Stack
-
+<div>
 <img alt="Swift" src="https://img.shields.io/badge/Swift%20-%2302569B.svg?&style=for-the-badge&logo=Swift&logoColor=white" />	
 <img alt="Vision" src="https://img.shields.io/badge/Vision-%230175C2.svg?&style=for-the-badge&logo=Vision&logoColor=white"/>	
 <img alt="iOS" src="https://img.shields.io/badge/ios%20-%23039BE5.svg?&style=for-the-badge&logo=ios"/>	
+</div>
 
 # Glimpses of our project
 
