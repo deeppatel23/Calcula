@@ -33,4 +33,5 @@ Calcula is a calculator iOS app, that uses Machine Learning to scan bills and ad
 * User can tap and edit digits
 
 # Demo Video
-[![Watch the video](https://github.com/deeppatel23/Calcula/blob/main/Images/Screenshot%202021-05-16%20at%203.12.41%20PM.png =500x250)](https://drive.google.com/file/d/14eEtDhaIyX__vnZKcTdi1wwRWwSmWwv4/view?usp=sharing)
+
+[![Watch the video](<img alt="Swift" src="https://github.com/deeppatel23/Calcula/blob/main/Images/Screenshot%202021-05-16%20at%203.12.41%20PM.png" height = "500" width = "250" />)](https://drive.google.com/file/d/14eEtDhaIyX__vnZKcTdi1wwRWwSmWwv4/view?usp=sharing)
