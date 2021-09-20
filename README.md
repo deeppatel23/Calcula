@@ -17,11 +17,11 @@ Calcula is a calculator iOS app, that uses Machine Learning to scan bills and ad
 <img alt="iOS" src="https://img.shields.io/badge/ios%20-%23039BE5.svg?&style=for-the-badge&logo=ios"/>	
 </div>
 
-# Glimpses of our project
+# Glimpses of project
 <div>
 <img alt="Swift" src="https://github.com/deeppatel23/Calcula/blob/main/Images/Screenshot%202021-05-16%20at%203.13.54%20PM.png" height = "500" width = "250" />
 <img alt="Swift" src="https://github.com/deeppatel23/Calcula/blob/main/Images/Screenshot%202021-05-16%20at%203.12.13%20PM.png" height = "500" width = "250" />
-<img alt="Swift" src="https://github.com/deeppatel23/Calcula/blob/main/Images/WhatsApp%20Image%202021-05-16%20at%207.46.43%20PM.jpeg" height = "450" width = "200" />
+<img alt="Swift" src="https://github.com/deeppatel23/Calcula/blob/main/Images/WhatsApp%20Image%202021-05-16%20at%207.46.43%20PM.jpeg" height = "500" width = "250" />
 </div>
 
 # Features
